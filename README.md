@@ -2,9 +2,7 @@
 
 **STATO: in lavorazione**
 
-## DESCRIZIONE
-Elaborato per l'esame di Sistemi Operativi [Anno 2025].  
-
+## DESCRIZIONE:
 L’obiettivo è quello di realizzare un server che permetta multiple computazioni di impronte SHA-256.  
 Un client invia l’informazione di file di input al server e riceve l’impronta risultante appena computata.
 
