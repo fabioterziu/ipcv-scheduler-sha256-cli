@@ -39,4 +39,4 @@ clean:
 # To Remove object file(s) and executable(s)
 #			> make clean
 
-############################### DA AGGIUNGERE SHA256 e al
+############################## DA AGGIUNGERE SHA256 e al
