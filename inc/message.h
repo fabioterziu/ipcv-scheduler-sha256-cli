@@ -1,6 +1,6 @@
-#ifndef MESSAGE_H      // per evitare inclusioni multiple (include guard)
+#ifndef MESSAGE_H  
 #define MESSAGE_H
-#define SIMPLEMSG_SIZE 256 // Dimensione del messaggio semplice
+#define SIMPLEMSG_SIZE 256 
 
 #include <stdlib.h>
 #include <sys/types.h> 

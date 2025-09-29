@@ -9,7 +9,7 @@ It contains:
 - Punctuation: . , ; : ' " ! ? ( ) [ ] { } - _ —
 - Symbols: @ # $ % ^ & * ~ ` | \ / < > +=
 - Accented characters: àèéìòùçñß
-- Emojis: 😉🙈🥸🥾👳
+- Emoji: 😉🙈🥸🥾👳
 
 
  1  Nel mezzo del cammin di nostra vita

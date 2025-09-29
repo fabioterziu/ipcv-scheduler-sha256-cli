@@ -31,7 +31,7 @@ clean:
 	@rm -f src/*.o client server
 	@echo "Removed object files and executables..."
 
-# To compile:
+# per compilare:
 #            > cd ese_1
 #            > make
 # To run the executable

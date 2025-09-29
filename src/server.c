@@ -87,7 +87,7 @@ int main(int argc, char *argv[]) {
     }
     printf("\n");
 
-    //funziona, devo inviare hash al client. sistemare sto bordello, capirlo, rendelo leggibile e salvarlo.
+    //
 
     }
     return 0;

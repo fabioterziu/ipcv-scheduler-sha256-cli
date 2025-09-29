@@ -7,8 +7,8 @@
 
 struct shmemStruct {
     size_t path_len; //dimensione path
-    //key di segmento di memoria?
-    char path[256]; //path del file ///////////////////PERCHE CAZZO SE NON USO 256 MI DA <SERVER> Shared memory error: Invalid argument
+    
+    char path[256]; //
 
 };
 
