@@ -1,4 +1,4 @@
-# 📁 Gestione concorrente di richieste di hashing SHA-256 tramite IPC System V con scheduling
+# 📁 Gestione concorrente di richieste di hashing SHA-256 con scheduling tramite IPC System V
 
 **STATO: in lavorazione**
 
